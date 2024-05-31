@@ -1,0 +1,16 @@
+.table_row{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr;
+}
+
+.high_light{
+    background-color: #c2c21c;
+}
+
+.table_row>p{
+    border: 1px solid black;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: center;
+}

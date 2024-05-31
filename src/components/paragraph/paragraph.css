@@ -1,0 +1,10 @@
+.para{
+    border: 1px solid #000000;
+    padding: 0.5rem 0.5rem;
+    width: 100%;
+}
+
+.selected_para{
+    border-color: #00ff00;
+    border-width: 3px;
+}
